@@ -1,7 +1,7 @@
 
 // mai jos am lasat codul folosit pentru aceasta masinuta 
 
-//CUCUTEANU ALEXANDRU grupa 5304 EA
+//CUCUTEANU ALEXANDRU 
 
 
 
